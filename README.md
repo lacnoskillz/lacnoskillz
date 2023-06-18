@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **finding a job**
 
-- 👨‍💻 All of my projects are available at [https://lacnoskillz.github.io/Kaikanes-Portfolio/](https://lacnoskillz.github.io/Kaikanes-Portfolio/)
+- 👨‍💻 All of my projects are available at [https://lacnoskillz.github.io/Portfolio3.0/) 
 
 - 📫 How to reach me **kaikane3457@hotmail.com**
 
