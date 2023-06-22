@@ -13,11 +13,11 @@
 
 - 🤝 I’m looking for help with **finding a job**
 
-- 👨‍💻 All of my projects are available at [https://lacnoskillz.github.io/Portfolio3.0/) 
+- 👨‍💻 All of my projects are available at https://lacnoskillz.github.io/Portfolio3.0/
 
 - 📫 How to reach me **kaikane3457@hotmail.com**
 
-- 📄 Know about my experiences [https://profile.indeed.com/resume](https://profile.indeed.com/resume)
+- 📄 Know about my experiences https://docs.google.com/document/d/1U0NE0aVoz55fnPQ4iupnGX6XHo6HLtlA9otkXK4JFww/edit
 
 - ⚡ Fun fact **I'm a mediocre piano player**
 
