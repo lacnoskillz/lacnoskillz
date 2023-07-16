@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **kaikane3457@hotmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/17g6CNI6d-LrJ8Jsqun6iu7SAw5ZfhGiYInvQoQ9voMo/edit?usp=sharing](https://docs.google.com/document/d/1JkWc7NZbkryB_c4xPnozReEMPwJF4vMRTYsIJV1aql0/edit)
+- 📄 Know about my experiences [click for resume](https://docs.google.com/document/d/17g6CNI6d-LrJ8Jsqun6iu7SAw5ZfhGiYInvQoQ9voMo/edit?usp=sharing)
 
 - ⚡ Fun fact **I'm a mediocre piano player**
 
