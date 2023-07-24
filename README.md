@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lacnoskillz" alt="lacnoskillz" /></a> </p> -->
 
-- 🔭 I’m currently working on [Cool-beans](https://github.com/hmustain/Cool-Beans)
+- 🔭 I’m currently working on [DoggyDaze](https://doggydaze2-f3b373e877e6.herokuapp.com/)
 
 - 🌱 I’m currently learning **Tailwind CSS**
 
