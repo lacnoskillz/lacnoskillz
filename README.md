@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [DoggyDaze](https://doggydaze2-f3b373e877e6.herokuapp.com/)
 
-- 🌱 I’m currently learning **Tailwind CSS**
+- 🌱 I’m currently learning **React-Redux**
 
 - 👯 I’m looking to collaborate on **anything!**
 
