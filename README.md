@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lacnoskillz" alt="lacnoskillz" /></a> </p> -->
 
-- 🔭 I’m currently working on [coreysworkwebsite](https://coreyshandymanservices-c753feba012a.herokuapp.com/)
+- 🔭 I’m currently working on https://github.com/lacnoskillz/GiveNow
 
 - 🌱 I’m currently learning **React-Redux**
 
