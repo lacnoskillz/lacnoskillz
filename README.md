@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on https://github.com/lacnoskillz/GiveNow
 
-- 🌱 I’m currently learning **React-Redux**
+- 🌱 I’m currently learning **Stripe**
 
 - 👯 I’m looking to collaborate on **anything!**
 
