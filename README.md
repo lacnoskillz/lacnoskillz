@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on https://github.com/lacnoskillz/GiveNow
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **JAVA**
 
 - 👯 I’m looking to collaborate on **anything!**
 
